@@ -1,2 +1,2 @@
 # numpy.codes
-A code repo of numpy.
+A code repo of numpy codes.
